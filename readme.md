@@ -4,7 +4,6 @@ Basic local dev environment using docker, for use with Laravel.
 
 ## Commands
 
----
 `docker-compose pull`
 
 `docker-compose build`
@@ -15,7 +14,6 @@ Basic local dev environment using docker, for use with Laravel.
 
 ## Notes
 
----
 ### mysql
 
 Setting MYSQL_USER and MYSQL_PASSWORD will create a new user, but won't have ALL PRIVILEGES. This needs to be set from within phpmyadmin.
